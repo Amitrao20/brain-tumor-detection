@@ -98,7 +98,7 @@
 
 <!-- wp:heading {"level":3} -->
 <h3>STEP 8: Evaluation</h3>
-<!-- /wp:heading -->
+<!-- /wp:heading --> 
 
 <!-- wp:paragraph -->
 <p>In this part, we will compare the scores of above two models.</p>
